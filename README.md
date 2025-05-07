@@ -2,13 +2,13 @@
 
 Meu nome é LIN
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou estudando na [Alura](https://www.alura.com.br), e estudando sozinho;
+- Estou me desenvolvendo na linguagem JavaScript, CSS, HTML e C++
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
 
-00001114721256SP@al.educacao.sp.gov.br
+servicosdavirafael@gmail.com
 
 @dav1zinn.a
 
