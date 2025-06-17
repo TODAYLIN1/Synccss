@@ -17,7 +17,7 @@
     <b>Github Stats</b>
   </h2>
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamhiep2506&theme=gruvbox" />
+    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TODAYLIN1&theme=default)" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phamhiep2506&theme=gruvbox" />
   </p>
 
